@@ -1,9 +1,9 @@
-todo
+todoMVC
 ====
 
 [TodoMVC] app built with [Ember].
 
-![alt tag](http://i61.tinypic.com/2iar7no.png)
+![alt tag](http://cl.ly/image/032s171x213U/learn_ember.gif)
 
 [Ember]:http://emberjs.com/
 [TodoMVC]:http://todomvc.com/
